@@ -1,7 +1,6 @@
 ## Hey there! I'm Victor
 
 ### I'm currently working on:
-- A real life text adventure discord bot 
 - A fully custom runescape private server
 
 ### Languages and tools:
